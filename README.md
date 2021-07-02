@@ -1,6 +1,23 @@
 EasyTax plugin
 ==============
 
+# Swoop Notes
+This is a fork of a GutHub project.
+
+Before deploying, you need to add two tables to the KillBill database, as detailed below.
+
+To deploy the plugin, build the project using Maven, then run the `deploy_non_production_aws.sh` script.
+
+After that, run the `populate_taxes.sh` script.
+
+...
+
+profit.
+
+# Original README
+
+
+
 > :bangbang: **Note** we are no longer using Kill Bill at SolarNetwork, so will no longer be
 > maintaining this project.
 
